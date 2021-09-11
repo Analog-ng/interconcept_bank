@@ -453,6 +453,10 @@ section {
 	font-weight: 500;
 }
 
+.navbar-brand{
+   max-width: 60%!important;
+}
+
 .banner {
   color: var(--buttonText);
 }
