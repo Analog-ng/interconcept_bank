@@ -12,6 +12,7 @@
   --highlight: #865bdd;
   --secondary: #FFCC17;
   --text: #150435;
+  --text2: #fff;
   
 }
 
@@ -400,12 +401,12 @@ section {
 }
 
 .services .icon i {
-  color: var(--buttonText);
+  color: var(--text2);
   font-size: 24px;
 }
 
 .services .icon-box:hover .icon {
-  background: var(--buttonText);
+  background: var(--text2);
   border: 1px solid var(--button);
 }
 
@@ -453,7 +454,7 @@ section {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-	color: var(--buttonText)!important;
+	color: var(--text2)!important;
 	font-weight: 500;
 }
 .navbar-dark .navbar-nav .nav-link:hover {
@@ -470,11 +471,11 @@ a.navbar-brand{
 }
 
 .banner {
-  color: var(--buttonText);
+  color: var(--text2);
 }
 
 .navbar-dark .navbar-brand {
-  color: var(--buttonText)!important;
+  color: var(--text2)!important;
 }
 
 .bg-purple{
@@ -486,7 +487,7 @@ a.navbar-brand{
 }
 
 .bb{
-  color: var(--buttonText);
+  color: var(--text2);
 }
 .bb li {
 	margin-bottom: 5px;
@@ -494,7 +495,7 @@ a.navbar-brand{
 .bb li a {
 	font-size: 13px;
 	font-weight: 600;
-	color: var(--buttonText);
+	color: var(--text2);
 	transition: all 0.3s ease;
 	text-decoration: none;
 }
