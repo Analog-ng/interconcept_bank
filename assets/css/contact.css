@@ -35,6 +35,21 @@ padding-right: 50px;
         
         
         }
+    
+        .contact{
+            background: #6832D4;
+            padding:30px 20px;
+            margin: auto;
+        }
+
+        .contact-heading h3{
+            text-transform: capitalize;
+            text-align: center;
+            font-size: 2em;
+            font-weight: 600;
+            color: #ffffff;
+            margin: 2rem;
+        }
 }
 .contact-form input[type="text"],
 .contact-form input[type="email"]{
