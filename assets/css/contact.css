@@ -23,6 +23,19 @@ padding-right: 50px;
 
 
 }
+
+@media only screen and (max-width: 600px) {
+
+    .contact-grids{
+        background: #FFFFFF;
+        border-radius: 8px;
+        padding-bottom: 50px;
+        padding-left: 0px;
+        padding-right: 0px;
+        
+        
+        }
+}
 .contact-form input[type="text"],
 .contact-form input[type="email"]{
     margin: 1em 0;
